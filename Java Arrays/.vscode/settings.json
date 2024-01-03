@@ -1,4 +1,5 @@
 {
     "accessibility.verbosity.terminal": true,
-    "terminal.integrated.defaultProfile.linux": ""
+    "terminal.integrated.defaultProfile.linux": "",
+    "debug.javascript.terminalOptions": {}
 }
